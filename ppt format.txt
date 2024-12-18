@@ -1,0 +1,32 @@
+12-15 slides
+
+0- containing the taitle of the project
+ team info
+ clint info vajra.ai
+
+1- contain about you project idea and understanding the idea
+  bucceness idea of u r project
+
+2- contains datacollection info 
+ data slipin of u r collected data along with 5 rows 
+ and each and every column and its description
+ and the columns which are effecting the project
+
+3- checking and validating the data and how did you handle it
+
+4,5,6,- about your project EDA descriptive and visvalization
+
+7,8,9- missing values and out layer handelling ,devide X and Y, data preprocessing (frature ingeneering)
+
+10- model selection
+
+11- model training results
+
+12- model evaluation and best model selection 
+
+13- any hyper perameter applied 
+
+14- real time prediction using your best model and your cloud deployemt link
+
+
+
